@@ -1,5 +1,5 @@
 """
-Funcao para consumo de API, converter json para DataFrame e retorna um Dataframe
+Função para consumo de API, converter json para DataFrame e retorna um Dataframe
 """
 import requests
 import pandas as pd
